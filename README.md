@@ -1,13 +1,13 @@
 # Spotify 2024 Global Streaming Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains a statistical analysis of Spotify's 2024 global streaming data.  
 It includes:
 - Raw dataset
 - Jupyter Notebook for analysis & visualization
 - PDF report summarizing findings
 
-## 📂 Repository Structure
+##  Repository Structure
 spotify-2024-global-streaming-analysis/
 │
 ├── data/
@@ -23,21 +23,21 @@ spotify-2024-global-streaming-analysis/
 ├── requirements.txt
 └── .gitignore
 
-## 🔍 Key Insights
+##  Key Insights
 - **Top Country by Streams**: Sweden (93,449.76M streams)
 - **Top Country by Monthly Listeners**: Russia (1,603.45M listeners)
 - **Most Popular Genre**: Classical
 - **Skewness of Streams**: ~ -0.05 (nearly symmetric distribution)
 - **Kurtosis of Streams**: ~ -1.24 (platykurtic)
 
-## 📊 Visualizations
+##  Visualizations
 The notebook includes:
 - Top genres & countries bar charts
 - Stream distribution pie chart
 - Skip rate by genre box plot
 - Duration vs monthly listeners scatter plot
 
-## ⚙️ Requirements
+##  Requirements
 To run the analysis locally, install dependencies:
 ```bash
 pip install -r requirements.txt
